@@ -6,7 +6,7 @@ I am a a high school student that loes to study Computer Science, Software Engin
 
 ## 👨‍🏭 So are you experienced?
 
-All though I do not have a job, nor have ever had one I have other experiences. I frequently do math and acedamic olympiads for my school, entering many competitions. I also love researching science topics, and taking courses on  OpenCourseWare: https://ocw.mit.edu/index.htm.
+All though I do not have a job, nor have ever had one, I have other experiences. I frequently do math and acedamic olympiads for my school, entering many competitions. I also love researching science topics, and taking courses on  OpenCourseWare: https://ocw.mit.edu/index.htm.
 
 ## 💻 What are in my repositories and how can I help you?
 
