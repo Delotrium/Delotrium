@@ -21,7 +21,7 @@ Well if you are really keen to argue about hawaian pizza, shoot me a message via
 I have many things planned for the future. As said above I inted in continuing to learn CPP and C#, and create games and whatnot. I also want to start to leaern ethical hacking and do CTF competitions. Although saying this I really want to do a lot of other things.
 
 ## 📈 My GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=delotrium&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=delotrium&show_icons=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delotrium&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
