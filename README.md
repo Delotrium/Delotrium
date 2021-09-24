@@ -24,7 +24,7 @@ I have many things planned for the future. As said above I inted in continuing t
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=delotrium&show_icons=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delotrium&show_icons=true&theme=github_dark&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delotrium&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🗃️ My Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=LearnCPP&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
