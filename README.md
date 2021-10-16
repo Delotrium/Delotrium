@@ -4,11 +4,11 @@
 Well since you asked...
 I am a a high school student that loes to study Computer Science, Software Engineering, Electrical Engineering, Physics, Chemistry, Pathophysiology and much more. I am quite the autodidactic (yep, i am a nerd) and a aspire to get to a prestigious college/university when I am older. Currently in my coding studies I am learning primiarly C++, C# and machine learning basics with python. I also intend to start to learn to create some games in unreal and/or unity (whoo!). I love playing video games, mostly mystery, simulator and FPS games, and love chilling with friends (contact me if you want to grind Apex Legends 😜). I also enjoy watching thriller and mystery movies, especially ones based on true stories as the freak the crap out of me. In my spare time I study 🤓, do a bunch of sports (like tennis, and motocross) and martial arts. I train with some of the Australian Army, and do Brazillian Jiu-Jitsu and Kung Fu (Wing Chung Style).
 
-## 👨‍🏭 So are you experienced?
+## 👨‍🏭 So what do you study?
 
-All though I do not have a job, nor have ever had one, I have other experiences. I frequently do math and acedamic olympiads for my school, entering many competitions. I also love researching science topics, and taking courses on  OpenCourseWare: https://ocw.mit.edu/index.htm.
+I frequently do math and acedamic olympiads for my school, entering many competitions. I also love researching science topics, and taking courses on  OpenCourseWare: https://ocw.mit.edu/index.htm. You will always find me working on nerd-y projects and reading random books on about any topic.
 
-## 💻 What are in my repositories and how can I help you?
+## 💻 What are in your repositories and how can I help you?
 
 Thanks for asking, I love getting all the help I can! I am workng on a lot of education repositories right now, for instance LearnCPP and LearnC-Sharp to teach myself and others getting into the languages. It would be greatly appreciated if you can help in any way by creating pull requests or even just shooting me an issue. 
 
