@@ -33,5 +33,5 @@ I have many things planned for the future. As said above I inted in continuing t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=Ket&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=PythonPhysicsSimulator&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=Arduino&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=Asrduino&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delotrium&repo=Median-Housing-Prices-ML-Model&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
