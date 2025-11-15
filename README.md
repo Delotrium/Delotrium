@@ -1,7 +1,5 @@
-
-## 📈 My GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=delotrium&show_icons=true&theme=github_dark&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+## Current Active Project(s)
+### - [Quant Finance Engine in Rust](https://github.com/Delotrium/QuantFinLib/)
 ## 🖥️ My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delotrium&show_icons=true&theme=github_dark&hide_title=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
